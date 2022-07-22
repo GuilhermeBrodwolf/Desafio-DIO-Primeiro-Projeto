@@ -20,6 +20,8 @@
 * (git push) para empurrar arquivos para o GitHub;
 * (git add *) serve para adicionar alterações ao commit;
 * (git clone + ssh ou HTTPS do arquivo do GitHub) serve para clonar para sua máquina programações que estão na rede GitHub;
+* (git commit -m "mensagem que vai aparecer sobre esse arquivo") serve para dar o comando que o arquivo vai ser levado para a nuvem, no caso o GitHub, junto de um "titulo" que vai aparecer;
+* (git push origin main) esse comando faz o seu arquivo "subir" para o GitHub de fato. Após esse comando o arquivo vai aparecer no seu repositório. Todas as mudanças que forem feitas devem passar pelo (git add *), (git commit -m "título") e (git push origin main).
 
 
 
