@@ -1,0 +1,31 @@
+# Aqui vamos fazer uma introdução sobre o que é Git e GitHub
+
+* Primeiramente vamos entender o que é o Git e o GitHub	
+  * O Git é um sistema para interagir com o GitHub. 
+  * Lá voce consegue fazer blobs, tree e commitar arquivos. 
+  * Para iniciantes, por exemplo, voce consegue fazer arquivos mais simples como um arquivo de texto com receitas de comidas, para enviar ao GitHub e mostrar um pouco do seu desenvolvimento nos estudos de programação.
+* Já o GitHub é uma plataforma online, onde voce pode enviar seu progresso e projetos embrionários de programação para usar como portifólio ou até mesmo para treinar suas habilidades em programação. 
+  * É parecido com uma rede social, onde os integrantes podem interagir com as programações que tem na rede. É uma rede colaborativa, que voce pode usar para se desenvolver, desde que o arquivo seja público, pois tem os privados em que voce nao pode interagir!
+
+
+
+
+
+# Alguns comandos que se usam bastante no GIT:
+
+* (cd + nome da pasta) para entrar em uma pasta;
+* (cd ..) para voltar a pasta anterior;
+* (mkdir + nome da pasta) para criar uma pasta nova;
+*  (git status) voce pode verificar se tem arquivos novos em uma pasta que já estão commitados ou não;
+* (git push) para empurrar arquivos para o GitHub;
+* (git add *) serve para adicionar alterações ao commit;
+* (git clone + ssh ou HTTPS do arquivo do GitHub) serve para clonar para sua máquina programações que estão na rede GitHub;
+
+
+
+Aqui dei alguns exemplos para introduzir o leitor ao mundo iniciante de programação, e também apresentar um pouco mais do que eu aprendi com as aulas que estou fazendo!
+
+
+
+* Como voces podem ver, o GitHub não é exatamente onde fazemos programação. Voce até pode fazer algumas alterações por lá, porém é limitado e seu uso fica mais como rede social para compartilhar programações. 
+* A programação em si acontece no Git.
